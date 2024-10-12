@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hi, I'm Maya
 
-<!--
-**maja-jablonska/maja-jablonska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Ph.D. Candidate in Astronomy at Australian National University
 
-Here are some ideas to get you started:
+🚀 Astrophysicist | Machine Learning Researcher | Software Engineer (she/her)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+I'm passionate about bridging the gap between astrophysics and machine learning. My research focuses on applying advanced ML techniques to astronomical data, particularly in the areas of stellar astrophysics and galactic archaeology
+
+- 🔬 Working on LLMs and generative models for astronomy
+- 📊 Experienced in data analysis and big data processing
+- 🌌 Interested in synthetic spectra for various types of stars, using ML for galactic archaeology, link between stars and exoplanets, microlensing
+
+## 🛠 Tech Stack
+
+Python | C++ | JAX | PyTorch | TensorFlow | SQL | Git
+
+## 📫 How to reach me
+
+- LinkedIn: [maja-jablonska](https://www.linkedin.com/in/maja-jablonska/)
+- Google Scholar: [Maja Jabłońska](https://scholar.google.com/citations?user=2Uya0rgAAAAJ)
+
+Let's collaborate on pushing the boundaries of astrophysics with machine learning! 🌠
