@@ -20,5 +20,6 @@ Python | C++ | JAX | PyTorch | TensorFlow | SQL | Git
 
 - LinkedIn: [maja-jablonska](https://www.linkedin.com/in/maja-jablonska/)
 - Google Scholar: [Maja Jabłońska](https://scholar.google.com/citations?user=2Uya0rgAAAAJ)
+- Homepage [https://www.mso.anu.edu.au/~mjablons/][https://www.mso.anu.edu.au/~mjablons/]
 
 Let's collaborate on pushing the boundaries of astrophysics with machine learning! 🌠
